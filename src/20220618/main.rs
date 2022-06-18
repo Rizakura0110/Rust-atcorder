@@ -9,7 +9,7 @@ fn main() {
 
     loop {
         y = y*2;
-        if n ==a {
+        if n == a {
             break;
         }
         n = n+1;
